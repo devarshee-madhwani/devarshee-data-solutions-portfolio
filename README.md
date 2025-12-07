@@ -67,6 +67,6 @@ Power BI, Python (Prophet, ARIMA, LSTM optional), AI Narrative Generation
 ## 📬 Contact
 
 - 📧 Email: devarshee.21@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/devarshee21  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/devarshee21](https://www.linkedin.com/in/devarsheemadhwani/)  
 - 🌐 Portfolio Website: Coming soon  
 
